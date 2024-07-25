@@ -1,3 +1,4 @@
+<!--
 <div id="header" >
   <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGlsam5hZDZidzc2OG15eXgyYnBkOHhjdzE0Z2VjczBqenY4OGU3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/igRW3jH2LcCVzMqi5F/giphy.gif" width="100"/>
 </div>
@@ -36,7 +37,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Amit%20Kumar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/amitkumarusa/)
 
-<!--
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
